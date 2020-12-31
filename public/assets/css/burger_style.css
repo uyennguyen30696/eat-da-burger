@@ -1,0 +1,55 @@
+.hide {
+    display: none;
+}
+.container {
+    padding: 20px;
+}
+h1 {
+    font-family: 'Bungee Outline', cursive;
+    color: red;
+    font-weight: bold;
+    font-size: 4em;
+    text-align: center;
+}
+.jumbotron {
+    margin-top: 30px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-image: url("../img/jonathan-borba-8l8Yl2ruUsg-unsplash\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px red;
+}
+p {
+    font-size: 1.5em;
+}
+.input-group {
+    padding-top: 20px;
+}
+h3 {
+    color: #BE2323;
+}
+h4 {
+    background-color: #BE2323;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+button {
+    border-color: transparent;
+    background-color: #DF5353;
+    color: white;
+}
+.customized-form {
+    padding: 2px;
+}
+#customize, #customize-btn {
+   margin: 4px;
+}
+.row {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 100px;
+}
