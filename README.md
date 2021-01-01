@@ -6,7 +6,7 @@
 ## Description
 
 This is an application that uses MySQL, Node, Express, Handlebars, and a homemade ORM that follows MVC design to build a burger logger.
-<br>Check out the deploy link hosting on Heroku [here]().
+<br>Check out the deploy link hosting on Heroku [here](https://eat-da-burger-app-by-uyen.herokuapp.com/).
 
 ## Installation
 
